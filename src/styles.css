@@ -1,0 +1,17 @@
+.comments-container {
+    margin: 20px;
+}
+
+.comment {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.author {
+    font-weight: bold;
+}
+
+.comment-text {
+    margin-top: 5px;
+}
